@@ -1,5 +1,18 @@
 # U-Do
 <a name='description'></a>
+
+
+# Group "Return of the Mac"
+
+Sean McElwain @ https://github.com/sean-mcelwain
+
+Sara Kanga @ https://github.com/S0519
+
+christi @ https://github.com/Christilea
+
+Chris @ https://github.com/Csayegh123
+
+
  ## Description 
 This app is designed as a to-do list manager.  This app allows for multiple users to share a to-do list, and it has reminders to complete tasks.  
 
